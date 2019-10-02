@@ -5,12 +5,12 @@
 ESP8266WebServer server(80);
 
 //Client Connect settings
-const char* ssid_c = "Prabin";
-const char* password_c = "remotenetwork";
+const char* ssid_c = "Rohan";
+const char* password_c = "girirohan36";
 
 //Access Point settings
 const char* ssid_a = "IOT-Network";
-const char* password_a = "neelamprabin";
+const char* password_a = "rohangiri";
 
 String data,mainPage="",currentPage,stat="Unreachable";
 bool wifi_mode=false;
