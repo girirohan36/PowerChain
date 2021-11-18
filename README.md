@@ -22,3 +22,4 @@ Technologies: Ethereum testnet (ganache cli), solidity, nodejs, mongo, Javascrip
 
 Project was implemented in SIEMENS Make It Real Hackathon, Sept '18 at BMS College of Engineering,Banagalore.
  
+https://ibb.co/C6ZB9Fm
