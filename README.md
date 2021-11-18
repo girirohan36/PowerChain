@@ -6,8 +6,6 @@ the consumer on saving electricity.
 Also, to make a client (decentralised web/mobile app) to manage the tokens of the consumer.
 
 
-Idea of the Project:
-
 Design a modified home automation system (IoT) that allows user to operate as well as send usage statistics of various appliances. This will allow him to manage his electricity usage.
 
 *Technologies: XAMPP, Arduino, Python+OpenCV .
